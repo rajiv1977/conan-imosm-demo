@@ -1,0 +1,4 @@
+[submodule "external/curl/curl"]
+	path = external/curl/curl
+	url = https://github.com/jpbarrette/curlpp.git
+
